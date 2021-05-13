@@ -1,4 +1,26 @@
 body {
-   overflow-y: hidden; 
-   overflow-x: hidden;
-  }
+   background-color: rgb(245, 236, 223);
+   margin: 50px;
+}
+h1 {
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 40px;
+ }
+
+a {
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 20px;
+   margin: 3px;
+   padding: 3px;
+   align-items: center;
+   background-color: #635856;
+   border-radius: 3px;
+   color: rgb(255, 255, 255);
+   box-shadow: 3px 3px 3px rgb(99, 97, 97);
+}
+ li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    margin: 5px;
+    padding: 5px;
+    font-size: 17px;
+ }
